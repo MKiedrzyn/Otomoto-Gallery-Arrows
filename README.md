@@ -2,6 +2,9 @@
 
 Rozszerzenie przeglądarki Chrome (i innych przeglądarek na Chromium), które pozwala przewijać zdjęcia w powiększonym podglądzie aukcji na **Otomoto** za pomocą **strzałek w lewo i w prawo** na klawiaturze.
 
+![Demo](otomoto-gallery-arrows-demo.gif)<img width="1438" height="662" alt="bceda755-1bf1-4e25-bdd4-59ea6a9238d1" src="https://github.com/user-attachments/assets/bd3cfc34-e960-4c8a-abfb-7f7ac7121866" />
+
+
 ## 🔧 Funkcje
 
 - Strzałka w prawo przechodzi do następnego zdjęcia, strzałka w lewo do poprzedniego.
