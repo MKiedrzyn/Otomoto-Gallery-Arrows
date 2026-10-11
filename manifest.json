@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Otomoto: strzałki w podglądzie zdjęć",
+  "version": "1.0.0",
+  "description": "Pozwala przewijać zdjęcia w powiększonym podglądzie aukcji na Otomoto strzałkami w lewo i w prawo na klawiaturze.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.otomoto.pl/*",
+        "https://otomoto.pl/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
